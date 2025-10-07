@@ -1,22 +1,24 @@
 # Image Gallery
 
 
-![APO+.gif](./APO%2B.gif)
+![optiks.gif](./optiks.gif)
 
-![sabrina.gif](./sabrina.gif)
-
-![pizza.gif](./pizza.gif)
+![edgy_miku.gif](./edgy_miku.gif)
 
 ![cyberpunkCafe.gif](./cyberpunkCafe.gif)
 
-![asus-rog-pixel-city.1920x1080.gif](./asus-rog-pixel-city.1920x1080.gif)
-
-![JapaneseBlossoms.gif](./JapaneseBlossoms.gif)
+![sabrina.gif](./sabrina.gif)
 
 ![oldhouse.gif](./oldhouse.gif)
 
-![optiks.gif](./optiks.gif)
+![JapaneseBlossoms.gif](./JapaneseBlossoms.gif)
+
+![APO+.gif](./APO%2B.gif)
 
 ![kiss.gif](./kiss.gif)
 
 ![bridge.gif](./bridge.gif)
+
+![asus-rog-pixel-city.1920x1080.gif](./asus-rog-pixel-city.1920x1080.gif)
+
+![pizza.gif](./pizza.gif)

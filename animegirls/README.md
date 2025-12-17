@@ -21,6 +21,8 @@
 
 ![miku-laptop.jpg](./miku-laptop.jpg)
 
+![smoking-himeno.jpg](./smoking-himeno.jpg)
+
 ![Messy-Room.jpg](./Messy-Room.jpg)
 
 ![arch-linux-goth-girl.png](./arch-linux-goth-girl.png)
@@ -109,7 +111,11 @@
 
 ![hotimonojedgement.jpg](./hotimonojedgement.jpg)
 
+![queen_himeno.png](./queen_himeno.png)
+
 ![gunmaid.png](./gunmaid.png)
+
+![himeno.jpg](./himeno.jpg)
 
 ![capacitor.png](./capacitor.png)
 
